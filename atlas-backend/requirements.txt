@@ -1,0 +1,15 @@
+# pip install -r requirements.txt
+pymongo 
+fastapi
+Flask
+Flask-Cors
+uvicorn[standard]
+Pillow
+mongoengine
+python-multipart
+pymupdf
+pandas
+docx2python
+flask_session
+motormongo; python_version > '3.11'
+motor; python_version < '3.11'
